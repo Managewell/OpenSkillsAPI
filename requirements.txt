@@ -24,7 +24,7 @@ hjson==1.5.6
 idna==2.1
 ipaddress==1.0.16
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 lambda-packages==0.5.0
 Mako==1.0.4
